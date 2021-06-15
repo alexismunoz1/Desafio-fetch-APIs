@@ -1,2 +1,2 @@
 # Desafio-fetch-APIs
-Sitio web básico de búsqueda de productos, que consume los datos de la api de mercado libre.
+Sitio web básico sobre búsquedas de productos, que consume los datos de una api de mercado libre.
